@@ -1,3 +1,6 @@
+"""
+   Author: Mayukh Dutta
+"""
 import os
 import os.path
 import numpy as np
