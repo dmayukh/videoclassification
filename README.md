@@ -13,5 +13,6 @@ The train.py in torch object detection does not seem to work with the videos sav
 Use the training code from here https://github.com/pytorch/vision/blob/master/references/video_classification/train.py
 
 
+Check the cloab notebook for the test runs https://colab.research.google.com/drive/1932J5AKnf6RHSCyQg0H1Jqr7s3rowSmZ?usp=sharing
 
 
