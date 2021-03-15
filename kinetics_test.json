@@ -1,0 +1,27 @@
+{
+    "--6bJUbfpnQ": {
+        "annotations": {
+            "label": "",
+            "segment": [
+                17.0,
+                27.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "test",
+        "url": "https://www.youtube.com/watch?v=--6bJUbfpnQ"
+    },
+    "--8YXc8iCt8": {
+        "annotations": {
+            "label": "",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "test",
+        "url": "https://www.youtube.com/watch?v=--8YXc8iCt8"
+    }
+}
+

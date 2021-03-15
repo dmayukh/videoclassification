@@ -1,0 +1,39 @@
+{
+    "---QUuC4vJs": {
+        "annotations": {
+            "label": "testifying",
+            "segment": [
+                84.0,
+                94.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "train",
+        "url": "https://www.youtube.com/watch?v=---QUuC4vJs"
+    },
+    "--3ouPhoy2A": {
+        "annotations": {
+            "label": "eating spaghetti",
+            "segment": [
+                20.0,
+                30.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "train",
+        "url": "https://www.youtube.com/watch?v=--3ouPhoy2A"
+    },
+    "--4-0ihtnBU": {
+        "annotations": {
+            "label": "dribbling basketball",
+            "segment": [
+                58.0,
+                68.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "train",
+        "url": "https://www.youtube.com/watch?v=--4-0ihtnBU"
+    }
+}
+
